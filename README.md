@@ -1,7 +1,7 @@
 # installation guide for linux 
 ## Required Stuff for linux 
-1. Jdk v22 recommended!!
-2. 
+1. Jdk v22 recommended!!:- https://www.oracle.com/au/java/technologies/downloads/
+2. Java :- https://www.java.com/en/download/manual.jsp
 - Get all the required files from github https://github.com/anilH3inso/Burpsuite-pro-for-free/linux
 
 Download Zip file and Extract It.
