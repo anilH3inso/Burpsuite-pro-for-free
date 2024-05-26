@@ -1,4 +1,8 @@
-Get all the required files from github https://github.com/anilH3inso/Burpsuite-pro-for-free/linux
+# installation guide for linux 
+## Required Stuff for linux 
+1. Jdk v22 recommended!!
+2. 
+- Get all the required files from github https://github.com/anilH3inso/Burpsuite-pro-for-free/linux
 
 Download Zip file and Extract It.
 
